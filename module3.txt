@@ -1,13 +1,48 @@
+milestone1 module3
+
+c:/ cd diya location change
+
+
+
+vcs=version control system (collaboration,storing,restoring,backup)
+
+local vcs=icmt 000database
+
+centralized vcs = 2 cmt 000 database
+
+distributed vcs=2cmt 2database 1common
+
+gti=github= distributed vcs(working area, staging area, git repository area)
+
+terminal new =problem hole(q ba w click)
+
+show all=git config -l
+
+live website=setting+page+main+save
+
+git description a live website save
+
 echo "# milestone1_module3_2026" >> README.md
+
 git init
+
 git add .
+
 git commit -m "first commit"
+
 git branch -M main
+
 git remote add origin https://github.com/MD-Esarul-hoque/milestone1_module3_2026.git
+
 git push -u origin main
 
 
+
+
+
 git add .
+
 git commit -m "first commit"
+
 git push
 
